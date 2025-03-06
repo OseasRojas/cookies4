@@ -81,6 +81,7 @@
     </Compile>
     <Compile Include="ASPX2.aspx.cs">
       <DependentUpon>ASPX2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="ASPX2.aspx.designer.cs">
       <DependentUpon>ASPX2.aspx</DependentUpon>

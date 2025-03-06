@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\47002\\Downloads\\ASPX\\cookies ej4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A05434C4-40F2-4669-9CCB-59707B7BB078}|EJEMPLO4 PRECTICA3\\EJEMPLO4 PRECTICA3.csproj|C:\\Users\\47002\\Downloads\\ASPX\\cookies ej4\\ejemplo4 prectica3\\aspx2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A05434C4-40F2-4669-9CCB-59707B7BB078}|EJEMPLO4 PRECTICA3\\EJEMPLO4 PRECTICA3.csproj|c:\\users\\47002\\downloads\\aspx\\cookies ej4\\ejemplo4 prectica3\\aspx2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A05434C4-40F2-4669-9CCB-59707B7BB078}|EJEMPLO4 PRECTICA3\\EJEMPLO4 PRECTICA3.csproj|solutionrelative:ejemplo4 prectica3\\aspx2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{A05434C4-40F2-4669-9CCB-59707B7BB078}|EJEMPLO4 PRECTICA3\\EJEMPLO4 PRECTICA3.csproj|solutionrelative:ejemplo4 prectica3\\aspx2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A05434C4-40F2-4669-9CCB-59707B7BB078}|EJEMPLO4 PRECTICA3\\EJEMPLO4 PRECTICA3.csproj|c:\\users\\47002\\downloads\\aspx\\cookies ej4\\ejemplo4 prectica3\\aspx1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A05434C4-40F2-4669-9CCB-59707B7BB078}|EJEMPLO4 PRECTICA3\\EJEMPLO4 PRECTICA3.csproj|C:\\Users\\47002\\Downloads\\ASPX\\cookies ej4\\ejemplo4 prectica3\\aspx1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A05434C4-40F2-4669-9CCB-59707B7BB078}|EJEMPLO4 PRECTICA3\\EJEMPLO4 PRECTICA3.csproj|solutionrelative:ejemplo4 prectica3\\aspx1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "EJEMPLO4 PRECTICA3\\ASPX2.aspx.cs",
               "ToolTip": "C:\\Users\\47002\\Downloads\\ASPX\\cookies ej4\\EJEMPLO4 PRECTICA3\\ASPX2.aspx.cs",
               "RelativeToolTip": "EJEMPLO4 PRECTICA3\\ASPX2.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-04T03:57:03.208Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "EJEMPLO4 PRECTICA3\\ASPX1.aspx.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAiwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T03:56:11.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T03:56:11.455Z"
             },
             {
               "$type": "Document",
